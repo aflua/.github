@@ -2,8 +2,6 @@
 
 **Desenvolvedora independente de software. Criamos e mantemos produtos digitais próprios.**
 
----
-
 ## Sobre
 
 A Aflua desenvolve, opera e mantém seus próprios produtos de software. Não prestamos serviços sob encomenda: cada projeto aqui nasce para resolver um problema real, ser usado por pessoas de verdade e se sustentar no longo prazo.
